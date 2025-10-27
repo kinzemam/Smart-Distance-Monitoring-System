@@ -1,2 +1,10 @@
-# Smart-Distance-Monitoring-System
-This project uses an Arduino UNO, Ultrasonic Sensor (HC-SR04), 16×2 LCD Display, and a blinking LED to create a real-time distance measurement and alert system.
+## Smart Distance Monitoring & Alert System
+
+This project measures real-time object distance using an Ultrasonic Sensor (HC-SR04) and displays it on a 16x2 LCD. 
+If the object is closer than 10 cm, an LED blinks as an alert.
+
+### Components:
+- Arduino UNO
+- HC-SR04 Ultrasonic Sensor
+- 16x2 LCD Display
+- LED and Resistor
